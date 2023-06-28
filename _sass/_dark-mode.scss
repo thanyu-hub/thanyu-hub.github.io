@@ -1,0 +1,27 @@
+/* ==========================================================================
+   DARK MODE
+   ========================================================================== */
+
+
+:root {
+    --body-bg-dark: #1a1a1a;
+    --text-color-dark: #eaeaea;
+    --primary-color-dark: #7a8288; 
+    --link-color-dark: #1ab7ea;
+    --link-color-hover-dark: #0e7096;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: var(--body-bg-dark);
+      color: var(--text-color-dark);
+    }
+    a {
+      color: var(--link-color-dark);
+    }
+    a:hover {
+      color: var(--link-color-hover-dark);
+    }
+    // ... and so on for other elements as needed ...
+  }
+  

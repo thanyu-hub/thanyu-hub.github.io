@@ -20,7 +20,7 @@ g = glob.glob("*.md")
 
 geocoder = Nominatim()
 location_dict = {}
-location = ""
+location = "Fayetteville, AR"
 permalink = ""
 title = ""
 
