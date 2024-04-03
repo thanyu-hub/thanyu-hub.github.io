@@ -80,13 +80,13 @@ analytics:
 # Site Author
 author:
   name             : "Taisei Hanyu"
-  avatar           : "profile.png"
-  bio              : "Junior Student at Computer Science and Computer Engineering, University of Arkansas, Fayetteville"
+  avatar           : "taisei_hanyu.jpg"
+  bio              : "Junior Student at Computer Science and Computer Engineering, University of Arkansas"
   location         : "Fayetteville, AR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=mJuHh7UAAAAJ"
-  email            : "thanyu@uark.com"
+  email            : "thanyu@uark.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -212,7 +212,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
